@@ -1,0 +1,37 @@
+{
+  "weather_forcast_for": "Սենդինգ ա մեսսագե",
+  "navbar": {
+    "links": {
+      "about": "About us",
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "contact": "Contact us"
+    }
+  },
+  "hero": {
+    "title": "WE BUILD <br></br>WE ADD VALUE",
+    "paragraph": "Gravity shapes the projects that shape the industry"
+  },
+  "right": {
+    "see_projects": "See projects"
+  },
+  "services": {
+    "service": "Our Services",
+    "construction": {
+      "title": "01 Construction",
+      "paragraph": "We use the most up-to-date methods and materials, hands-on engineering practices, and advanced technologies to deliver safe, high-quality facilities. We cover every step and detail of the construction process. At every point along the way, we’re focused on safety, attentive to evolving on-site needs, and dedicated to an outstanding end result."
+    },
+    "projectm": {
+      "title": "02 Project Management",
+      "paragraph": "Gravity Project Management team determines the most efficient and practical solutions for each project. We accurately plan every stage and aspect of a project: from the best architectural, design, engineering, and electrical solutions to precise resource management and work schedules."
+    },
+    "architectuald": {
+      "title": "03 Architectural Design",
+      "paragraph": "Gravity’s team of architects and designers use their talent and experience to create functional, comfortable and aesthetic spaces that boost productivity and efficiency. "
+    },
+    "propertyd": {
+      "title": "04 Property Development",
+      "paragraph": "Property Development is about taking ideas on paper and turning them into real property. It is a laborious process that involves a wide range of professionals and implies many stages. There is one important reason to choose Gravity for the fast and high-quality performance of the entire scope of work - a full range of services. You stay focused on your mission while we manage the details as your project comes to life."
+    }
+  }
+}
